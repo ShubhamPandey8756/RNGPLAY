@@ -1,0 +1,3 @@
+to Run just write 
+run:- npm intall to install node modules...
+npx vite :-to run
